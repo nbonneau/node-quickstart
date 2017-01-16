@@ -57,3 +57,5 @@ Install the npm packages described in the `package.json` and verify that it work
 npm install
 node app.js
 ```
+
+Go to `http://localhost:8080`.
