@@ -1,0 +1,23 @@
+{
+  "name": "node-quickstart",
+  "version": "1.0.0",
+  "description": "Node quickstart project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas BONNEAU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nbonneau/node-quickstart/issues"
+  },
+  "homepage": "https://github.com/nbonneau/node-quickstart#readme",
+  "dependencies": {
+    "connect": "~2.14.4",
+    "express": "^4.14.0",
+    "fcm-node": "~1.0.3",
+    "nodemailer": "~0.6.3",
+    "request": "~2.75.0",
+    "router": "^1.1.4"
+  }
+}
